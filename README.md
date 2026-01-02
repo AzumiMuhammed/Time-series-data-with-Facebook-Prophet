@@ -46,3 +46,5 @@ Produce interpretable results with minimal tuning
 
 ## Author:
 Azumi Muhammed
+
+Data Scientist | Applied AI & LLM Engineer
